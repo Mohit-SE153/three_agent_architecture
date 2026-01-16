@@ -1,6 +1,0 @@
-streamlit>=1.36.0
-langchain-openai>=0.2.0
-langgraph>=0.2.0
-pandas>=2.0.0
-plotly>=5.22.0
-openpyxl>=3.1.0
