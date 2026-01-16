@@ -1,4 +1,4 @@
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import streamlit as st
 import sqlite3
 import pandas as pd
@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 
 
 # === CONFIGURATION ===
-load_dotenv()
+#load_dotenv()
 DB_PATH = "my_data 1.db"
 JARGON_PATH = "Jargons.xlsx"
 LOGIC_PATH = "Logics.xlsx"
